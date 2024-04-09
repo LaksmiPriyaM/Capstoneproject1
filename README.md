@@ -1,2 +1,2 @@
 # Capstoneproject1
-Landing Page
+A Landing Page is created using Canva.
